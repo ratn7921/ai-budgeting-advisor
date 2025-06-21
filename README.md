@@ -2,7 +2,7 @@
 
 An AI-powered FinTech tool that helps users analyze spending habits, forecast future expenses, and get intelligent, actionable budgeting recommendations. Built for research, startup pitching (e.g., Y Combinator), or full-scale product development.
 
-![System Architecture](./diagram-export-21-6-2025-12_20_59-pm.png)
+![System Architecture](assets/diagram-export-21-6-2025-12_20_59-pm.png)
 
 ---
 

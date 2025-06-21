@@ -1,7 +1,3 @@
-# ai-budgeting-advisor
-
-
-
 # 💸 AI Personal Budgeting Advisor
 
 An AI-powered FinTech tool that helps users analyze spending habits, forecast future expenses, and get intelligent, actionable budgeting recommendations. Built for research, startup pitching (e.g., Y Combinator), or full-scale product development.
@@ -35,7 +31,7 @@ An AI-powered FinTech tool that helps users analyze spending habits, forecast fu
 
 ## 📂 Folder Structure (Recommended)
 
-.
+
 ├── backend/
 │ ├── main.py
 │ ├── models/

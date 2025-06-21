@@ -35,3 +35,18 @@ An AI-powered FinTech tool that helps users analyze spending habits, forecast fu
 
 ## 📂 Folder Structure (Recommended)
 
+.
+├── backend/
+│ ├── main.py
+│ ├── models/
+│ ├── routes/
+│ └── services/
+├── frontend/
+│ ├── web-react/
+│ └── mobile-flutter/
+├── ml/
+│ ├── categorizer.py
+│ └── forecaster.py
+├── assets/
+│ └── diagram-export.png
+└── README.md
